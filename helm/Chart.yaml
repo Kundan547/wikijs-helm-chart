@@ -5,7 +5,7 @@ name: wiki
 version: 2.3.0
 # This is the version number of the application being deployed. This version number should be
 # incremented each time you make changes to the application.
-AppVersion: latest
+appVersion: latest
 description: The most powerful and extensible open source Wiki software.
 keywords:
   - wiki
